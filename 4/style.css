@@ -52,7 +52,7 @@ select,
 textarea {
     width: 100%;
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #cecece;
     border-radius: 6px;
     font-size: 15px;
     font-family: Arial, sans-serif;
@@ -82,11 +82,5 @@ button {
 }
 
 button:hover {
-    background-color: #1d4ed8;
+    background-color: #d378c7;
 }
-
-button:focus-visible {
-    outline: 3px solid #1e40af;
-    outline-offset: 3px;
-}
-
